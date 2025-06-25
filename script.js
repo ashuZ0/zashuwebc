@@ -1,1 +1,1 @@
-// ZashuWeb starter JS file — future features coming!
+// Future JavaScript for ZashuWeb
